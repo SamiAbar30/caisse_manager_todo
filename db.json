@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "dc22",
+      "title": "test",
+      "valid": true
+    },
+    {
+      "id": "0a0b",
+      "title": "tstsds",
+      "valid": true
+    },
+    {
+      "id": "3d1d",
+      "title": "To study React Fundamentals",
+      "valid": false
+    },
+    {
+      "id": "d3fa",
+      "title": "To study React Fundamentals",
+      "valid": false
+    },
+    {
+      "id": "2205",
+      "title": "To study React Fundamentals 3",
+      "valid": true
+    },
+    {
+      "id": "0af4",
+      "title": "To study React Fundamentals 4",
+      "valid": false
+    }
+  ]
+}
